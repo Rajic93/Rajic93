@@ -1,4 +1,4 @@
-## Hi there 👋
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajic93&hide=stars&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Rajic93/Rajic93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
