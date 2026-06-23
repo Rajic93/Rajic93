@@ -1,9 +1,11 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rajic93&hide=stars&theme=dracula&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajic93&hide=C#&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>
+<div style="display: flex; flex-direction: row;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rajic93&hide=stars&theme=dracula&rank_icon=github" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajic93&hide=C#&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  </a>
+</div>
 
 <!--
 **Rajic93/Rajic93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
